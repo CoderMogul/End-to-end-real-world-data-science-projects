@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/SQL-Advanced%20Analytics-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Statistics-Hypothesis%20Testing-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-Churn%20Classification-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PowerBI%20Dashboard-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PowerBI-Interactive%20Dashboard-purple?style=flat-square"/>
 </p>
 
 ---
